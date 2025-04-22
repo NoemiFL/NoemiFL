@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working as System administrator
-- 🌱 I’m currently learning Docker
+- 🎯 I’m currently learning Docker
 
 <!--
 **NoemiFL/NoemiFL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
